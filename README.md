@@ -1,5 +1,5 @@
 # TeamUltron
-Intro to AI Project Team #16 
+AI Project Team #16 
 
 Team Members:
 > Ian Gray iwg210@nyu.edu (AWS CONTACT) 
