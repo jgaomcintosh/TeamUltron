@@ -1,4 +1,4 @@
-# TeamUltron
+# A Reverse-Image Search Implemented in Google Colab using CNN 
 AI Project Team #16 
 
 Team Members:
