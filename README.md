@@ -9,7 +9,7 @@ Team Members:
 > Shlok Goswami sg6862@nyu.edu
 
 **Documentation**
-> The formal documentation for this project can be found under "LaTeX Document" 
+> The formal documentation for this project can be found under "LaTeX Document" folder. The final documentation is the indicated pdf. 
 
 **Baseline** 
 > The baseline reverse image search, implemented in Google Colab, is found under "Baseline_Reverse_Image_Search.ipynb"
