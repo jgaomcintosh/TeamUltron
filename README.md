@@ -7,3 +7,9 @@ Team Members:
 > Jen McIntosh jgm9366@nyu.edu
 > 
 > Shlok Goswami sg6862@nyu.edu
+
+**Documentation**
+> The formal documentation for this project can be found under "LaTeX Document" 
+
+**Baseline** 
+> The baseline reverse image search, implemented in Google Colab, is found under "Baseline_Reverse_Image_Search.ipynb"
