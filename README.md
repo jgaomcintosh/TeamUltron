@@ -13,3 +13,10 @@ Team Members:
 
 **Baseline** 
 > The baseline reverse image search, implemented in Google Colab, is found under "Baseline_Reverse_Image_Search.ipynb"
+
+>The formal documentation for the baseline is within our LaTeX documentation.
+
+**Improvements**
+> The improvements we made on the baseline, also implemented in Google Colab, are funder under "Improving_Baseline.ipynb"
+
+>The formal documentation for the improvements is within our LaTeX documentation.
